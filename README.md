@@ -2,9 +2,9 @@
 - **OpenCV(Open Source Computer Vision Library)
 - https://github.com/opencv
 
-<img width="1973" height="1162" alt="ArgusChain_Dashboard" src="https://github.com/user-attachments/assets/d75fb283-073e-4361-a608-2f6582eb66ad" />
-
 # ArgusChain
+
+<img width="1973" height="1162" alt="ArgusChain_Dashboard" src="https://github.com/user-attachments/assets/d75fb283-073e-4361-a608-2f6582eb66ad" />
 
 **ArgusChain** is a desktop AI chat and computer vision analysis application written in pure Rust (`eframe`/`egui`, version 0.5.0). It runs as a single `ArgusChain.exe` binary without a WebView or separate runtime.
 
